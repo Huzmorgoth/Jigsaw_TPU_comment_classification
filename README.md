@@ -1,1 +1,5 @@
 # Jigsaw_TPU_comment_classification
+
+It only takes one toxic comment to sour an online discussion. The Conversation AI team, a research initiative founded by Jigsaw and Google, builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. If these toxic contributions can be identified, we could have a safer, more collaborative internet. 
+
+**This notebook contains the process of building NLP Multilingual Classification Models with BERT (Bidirectional Encoder Representations from Transformers: https://tfhub.dev/tensorflow/bert_multi_cased_L-12_H-768_A-12/1) technologies and TPU (network-connected accelerators: https://www.kaggle.com/docs/tpu) to accelarate the extensive training process. The models are trained with English-only training data and tested/validated on multilingual testing data.**
